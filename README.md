@@ -2,7 +2,7 @@
 Bioheal
 
 # Full description (to 8000)
-BioHeal is a strategy in which you can take the lead in protecting the human body. Infections and toxins have entered the bloodstream, do not let them spread and get to the heart. Create erythrocytes, lymphocytes and granulocytes to protect your body and normalize blood metabolism.
+BioHeal is a strategy, in which you can take the lead in protecting the human body. Infections and toxins have entered the bloodstream, do not let them spread and get to the heart. Create erythrocytes, lymphocytes and granulocytes to protect your body and normalize blood metabolism.
 
 The main task of the player is not to let the viruses destroy the heart and hold out all the infectious waves. The game takes place in the blood, the player must purify the blood from newly emerging infections and prevent them from destroying the heart.
 
